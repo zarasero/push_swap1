@@ -2,6 +2,8 @@ https://github.com/LeoFu9487/push_swap_tester
 https://github.com/SimonCROS/push_swap_tester
 https://github.com/gemartin99/Push-Swap-Tester
 
+https://www.calculatorsoup.com/calculators/statistics/random-number-generator.php
+
 Для оценки проекта **push_swap**, который представляет собой алгоритм сортировки с использованием двух стеков и множества операций, важно протестировать программу на корректность выполнения, обработку ошибок, производительность и утечки памяти. Ниже приведен полный набор тестов, который можно использовать для проверки.
 
 ### 1. **Проверка на утечки памяти**
